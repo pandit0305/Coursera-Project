@@ -16,3 +16,6 @@ https://github.com/pandit0305/Coursera-Project/blob/3875351e798f5628a65eb3660548
 Week 4
 Notebook of Introduction Section
 https://github.com/pandit0305/Coursera-Project/blob/e68e2543d4dc0c720c6468ec95d26bac8b535376/Introduction%20section.ipynb
+
+Notebook of Data section
+https://github.com/pandit0305/Coursera-Project/blob/2b321d99a9bbd796193cb09c54978f16e0474c8b/Data%20section.ipynb
