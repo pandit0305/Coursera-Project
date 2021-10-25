@@ -22,3 +22,6 @@ https://github.com/pandit0305/Coursera-Project/blob/cc828393bd65324e58587a840215
 
 Final Project of 'The Battle Of Neighborhoods In Mumbai City'
 https://github.com/pandit0305/Coursera-Project/blob/c68d9a7daa0a56860d241bae6a568921280e4e54/The%20Battle%20Of%20Neighborhoods_Mumbai%20City.ipynb
+
+Report of the project
+https://github.com/pandit0305/Coursera-Project/blob/fd99fe049c4601e77aab406d424d32c4cb1ef686/The%20Battle%20of%20Neighborhoods1-converted.pdf
