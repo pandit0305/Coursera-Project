@@ -19,3 +19,6 @@ https://github.com/pandit0305/Coursera-Project/blob/e68e2543d4dc0c720c6468ec95d2
 
 Notebook of Data section
 https://github.com/pandit0305/Coursera-Project/blob/cc828393bd65324e58587a84021509e554b50439/Data%20section1%20(1).ipynb
+
+Final Project of 'The Battle Of Neighborhoods In Mumbai City'
+https://github.com/pandit0305/Coursera-Project/blob/c68d9a7daa0a56860d241bae6a568921280e4e54/The%20Battle%20Of%20Neighborhoods_Mumbai%20City.ipynb
